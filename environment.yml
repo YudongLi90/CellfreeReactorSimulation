@@ -1,0 +1,15 @@
+name: g2t-env
+channels:
+  - cantera
+  - cantera/label/dev
+  - conda-forge
+dependencies:
+  - cantera
+  - matplotlib
+  - pandas
+  - ipykernel
+  - scikits.odes
+  - conda-build
+  - openpyxl
+  - scikit-learn
+  - bayesian-optimization
